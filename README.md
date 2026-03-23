@@ -12,7 +12,7 @@ Sou apaixonada por tecnologia e estou em transição de carreira para a área de
 - 🏥 Experiência prévia em áreas administrativas e de saúde, o que me deu uma base sólida em organização e resolução de problemas.
 - ☕ Movida a café e novos aprendizados.
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Aprendendo Tecnologias e Ferramentas
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
