@@ -8,7 +8,7 @@ Sou apaixonada por tecnologia e estou em transição de carreira para a área de
 
 ### 🚀 Sobre Mim
 - 🎓 Cursando Bacharelado em **Sistemas de Informação** (IFMG) . .
-- 💻 Focada em **JavaScript** e **React** (estudando no Point Barreiro).
+- 💻 Focada em **JavaScript** e **React** .
 - 🏥 Experiência prévia em áreas administrativas e de saúde, o que me deu uma base sólida em organização e resolução de problemas.
 - ☕ Movida a café e novos aprendizados.
 
